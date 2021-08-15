@@ -29,9 +29,9 @@ CONFIG_SCHEMA = vol.Schema({
   },
 }, extra=vol.ALLOW_EXTRA)
 
-icaUser = None
-icaPassword = None
-icaList = None
+icaUser = 197408311970
+icaPassword = 20608
+icaList = HA lista
 
 EVENT = "shopping_list_updated"
 INTENT_ADD_ITEM = "HassShoppingListAddItem"
